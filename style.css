@@ -3,6 +3,11 @@
 img{
 	width: 100%;
 }
+
+.detailimg{
+	    width: 30%;       /* または 50% でもOK */
+    height: auto;
+}
 /* body{
 	background-color: white;
 	background-image: url(logo.png);
